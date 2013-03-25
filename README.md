@@ -1,7 +1,6 @@
-freeswitch
+FreeSwitch
 ==========
 
-Freeswithc for ubuntu
+config for BBB
 
-
-test
+test 
